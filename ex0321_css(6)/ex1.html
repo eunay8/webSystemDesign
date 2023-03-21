@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /*내부 스타일시트*/
+        /*
+        h1 {
+            background-color:burlywood;
+            color: white;
+        }
+        p {
+            color:cadetblue;
+        }
+        h1 {
+            color:aqua;
+        }
+        /*같은 선택자에 대해 여러번 지정하면 가장 마지막(뒤)에 작성한 스타일이 적용됨*/
+        
+        * { margin:1; padding:3px; }
+        body {font-family: 'Gaegu', cursive;}
+    </style> 
+    <link rel="stylesheet" href="ex1.css">
+    <!-- 외부 스타일시트 삽입: 여러개의 css 파일을 여러개의 link 태그로 적용할 수 있다. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h1>텍스트 입력</h1>
+    <h1 style="color:blue"> 디자인 텍스트 입력 </h1>
+    <!-- 인라인 스타일 적용 -> 내부 스타일시트보다 우선 -->
+
+    <p>텍스트 내용 입력 디자인 설정</p>
+    
+</body>
+</html>

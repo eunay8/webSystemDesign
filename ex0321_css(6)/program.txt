@@ -1,0 +1,8 @@
+Chrome 확장 프로그램인 Web Developer 설치
+-> 우측 상단의 퍼즐 모양 아이콘으로 사용 가능
+
+fonts.google.com
+->  원하는 글꼴/굵기에 대해 우측의 select 클릭
+    ->  우측 상단의 selected families 클릭
+        ->  head에 넣을 <link> 태그와 
+            css파일(혹은 style태그)에 넣을 코드 copy
