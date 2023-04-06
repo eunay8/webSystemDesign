@@ -1,0 +1,12 @@
+doit 실습
+11장(trans, anim)
+12장(미디어쿼리_모바일, 그리드 / 플렉스박스 레이아웃)
+
+12장 모바일 뷰포트
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <!-- 모바일 기기를 위한 뷰포트 -->
+    <title>Document</title>
+</head>
